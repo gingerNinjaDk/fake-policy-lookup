@@ -1,0 +1,26 @@
+{
+    "polices": [
+        {
+            "policyNo": 1202693517,
+            "firstName": "Nigel",
+            "lastName": "Barnfield",
+            "ssn" : "427844284742",
+            "HasCover": "Yes"
+        },
+        {
+            "policyNo": 2378472834,
+            "firstName": "Christofer",
+            "lastName": "Thomas",
+            "ssn" : "537543874835",
+            "HasCover": "Yes"
+        },
+        {
+            "policyNo": 1007722148,
+            "firstName": "Roland",
+            "lastName": "Deschain",
+            "ssn" : "3483284234",
+            "HasCover": "No"
+        }
+
+    ]
+}
