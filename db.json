@@ -1,28 +1,30 @@
 {
-    "policies": [
-        {
-            "id" : 1202693517,
+    "policies": [{
+            "id": 1202693517,
             "policyNo": 1202693517,
             "firstName": "Nigel",
             "lastName": "Barnfield",
-            "ssn" : "427844284742",
-            "HasCover": "Yes"
+            "ssn": "427844284742",
+            "HasCover": "Yes",
+            "coverType": "GOLD"
         },
         {
-            "id":2378472834,
+            "id": 2378472834,
             "policyNo": 2378472834,
             "firstName": "Christofer",
             "lastName": "Thomas",
-            "ssn" : "537543874835",
-            "HasCover": "Yes"
+            "ssn": "537543874835",
+            "HasCover": "Yes",
+            "coverType": "SILVER"
         },
         {
             "id": 1007722148,
             "policyNo": 1007722148,
             "firstName": "Roland",
             "lastName": "Deschain",
-            "ssn" : "3483284234",
-            "HasCover": "No"
+            "ssn": "3483284234",
+            "HasCover": "No",
+            "coverType": "GOLD"
         }
 
     ]
